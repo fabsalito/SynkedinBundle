@@ -1,0 +1,3 @@
+synkedin_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: SynkedinBundle:Default:index }

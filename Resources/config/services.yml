@@ -1,0 +1,7 @@
+parameters:
+#    synkedin.example.class: Fabsalito\SynkedinBundle\Example
+
+services:
+#    synkedin.example:
+#        class: %synkedin.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
